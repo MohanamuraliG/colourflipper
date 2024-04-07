@@ -1,0 +1,41 @@
+body {
+    padding: 0px;
+    margin: 0px;
+  }
+  .nav {
+    background-color: white;
+    padding: 10px;
+    width: 100%;
+    position: fixed;
+  }
+  .heading {
+    color: rgb(17, 125, 168);
+    font-size: 30px;
+    margin-left: 40px;
+  }
+  .btn {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+  }
+  .btn-main {
+    background-color: black;
+    color: white;
+    padding: 30px;
+    font-size: 30px;
+    border-radius: 20px;
+  }
+  .btn-btn-main {
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    padding: 30px;
+    font-size: 20px;
+  }
+  .background-color-display {
+    color: rgb(17, 125, 168);
+  }
